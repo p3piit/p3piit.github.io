@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Hi, I’m Paolo Colussi. I’m a student at the University of Utrecth, where I’m enrollled in the Methods and Statistics for the Behavioural, Biomedical and Social Sciences research master’s program.\n\n\n\nMe and my dog"
+  },
+  {
+    "objectID": "pages/curriculum.html",
+    "href": "pages/curriculum.html",
+    "title": "Curriculum",
+    "section": "",
+    "text": "You can find my curriculum here: CV"
+  },
+  {
+    "objectID": "pages/contact.html",
+    "href": "pages/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "You can write me at p.colussi@uu.nl\nYou can find me on my GitHub"
+  },
+  {
+    "objectID": "pages/about.html",
+    "href": "pages/about.html",
+    "title": "This is me",
+    "section": "",
+    "text": "One thing you should know about me: I’m too lazy to write a proper bio.\nBut here are some random photos:\n\n\n\nYooo!\n\n\n\n\n\nYummy\n\n\n\n\n\nGood night!!"
+  }
+]

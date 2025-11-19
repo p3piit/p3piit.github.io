@@ -1,0 +1,7 @@
+---
+title: "Curriculum"
+format: html
+---
+
+
+You can find my curriculum here: [CV](files/_CV Paolo Colussi 2025.pdf)

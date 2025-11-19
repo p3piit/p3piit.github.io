@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Paolo Colussi"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pages/about.qmd
+        text: About
+      - href: pages/curriculum.qmd
+        text: Curriculum
+      - href: pages/contact.qmd
+        text: Contact
+    background: primary
+    foreground: light
+
+format:
+  html:
+    theme: lux

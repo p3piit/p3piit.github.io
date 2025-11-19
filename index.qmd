@@ -1,0 +1,12 @@
+---
+title: "Welcome!"
+format: html
+---
+
+Hi, I'm Paolo Colussi. I'm a student at the University of Utrecth, where I'm enrollled in the [Methods and Statistics for the Behavioural, Biomedical and Social Sciences](Biomedical) research master's program. 
+
+![Me and my dog](images/me_and_dog.jpg){width=500px}
+
+
+
+

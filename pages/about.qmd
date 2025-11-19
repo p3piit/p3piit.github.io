@@ -1,0 +1,14 @@
+---
+title: "This is me"
+format: html
+---
+
+One thing you should know about me: I'm too lazy to write a proper bio.
+
+But here are some random photos:
+
+![Yooo!](images/blue_building.jpg){width=300px}
+
+![Yummy](images/yummy.jpg){width=300px}
+
+![Good night!!](images/goodnight.jpeg){width=300px}
